@@ -47,7 +47,7 @@ export default function LoginScreen() {
                 <Text style={styles.emoji}>🔒</Text>
                 <Text style={styles.title}>Login</Text>
                 <Text style={styles.subtitle}>Bem-vindo de volta! Por favor, faça login para continuar.</Text>
-
+{/* uifdhg */}
                 <TextInput
                     style={styles.input}
                     placeholder="Email"
